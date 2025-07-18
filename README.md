@@ -9,7 +9,8 @@ Using causal inference and clustering analysis, we aimed to uncover:
 
 ---
 <p align="center">
-  <img src="https://i.imgur.com/spUPlPz.png" width="300">
+ <img width="408" height="345" alt="image" src="https://github.com/user-attachments/assets/22854571-0b90-4a22-8d6a-3a83ec93cecb" />
+
 </p>
 
 ## 📌 Background
@@ -34,7 +35,8 @@ To study NIL's influence, we used Canadian players as a control group (who were 
 
 
 <p align="center">
-  <img src="https://i.imgur.com/YO2jsvD.png" width="500">
+  <img width="802" height="362" alt="image" src="https://github.com/user-attachments/assets/e1e99d0a-c7f6-4cbe-821f-fc98489d2944" />
+
 </p>
 We estimated the **causal effect** of NIL using a DiD framework comparing U.S. and Canadian player stats **pre- and post-NIL**.
 
@@ -63,11 +65,13 @@ We segmented 500+ players into **4 behavior-based clusters**:
 | 🟣 All-Around Performers   | Balanced offense & defense            |
 
 <p align="center">
-  <img src="https://i.imgur.com/qYt0ypT.png" width="500">
+  <img width="902" height="503" alt="image" src="https://github.com/user-attachments/assets/e0f9e522-bff5-46c1-98c4-c98a5fadc4ca" />
+
 </p>
 
 <p align="center">
-  <img src="https://i.imgur.com/ZnDmNzd.png" width="500">
+  <img width="886" height="486" alt="image" src="https://github.com/user-attachments/assets/a44f90e7-0823-46ef-9bc3-3385f2913f7f" />
+
 </p>
 
 ### 📈 Major Behavior Changes Observed
